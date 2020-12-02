@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorMain"
+    tools:context=".MainActivity2">
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="170dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="20dp"
+        app:srcCompat="@drawable/image3" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        app:srcCompat="@drawable/image7" />
+
+    <Button
+        android:id="@+id/btn_play"
+        android:layout_width="184dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/gradiant"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="Play"
+        android:textColor="@color/colorwhite"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_ranking"
+        android:layout_width="187dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|center_horizontal|center_vertical"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/gradiant"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="Ranking"
+        android:textColor="@color/colorwhite"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/btn_htp"
+        android:layout_width="185dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/gradiant"
+        android:gravity="center"
+        android:text="How to play"
+        android:textColor="@color/colorwhite"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/btn_setting"
+        android:layout_width="183dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/gradiant"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="Settings"
+        android:textColor="@color/colorwhite"
+        android:textSize="25dp" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="163dp"
+        android:layout_height="123dp"
+        android:layout_gravity="end|bottom"
+        app:srcCompat="@drawable/image2" />
+</LinearLayout>
