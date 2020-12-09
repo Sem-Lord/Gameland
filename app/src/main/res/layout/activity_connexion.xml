@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorMain"
+    android:orientation="vertical"
+    android:id="@+id/main_activity_coordinator_layout"
+    tools:context=".Connexion">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="181dp"
+            android:layout_height="94dp"
+            android:layout_marginBottom="20dp"
+            app:srcCompat="@drawable/image3" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            app:srcCompat="@drawable/image11" />
+
+        <EditText
+            android:id="@+id/edt_mail"
+            android:layout_width="285dp"
+            android:layout_height="53dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/round_border"
+            android:drawableLeft="@drawable/ic_user"
+            android:ems="10"
+            android:hint="Enter your pseudo"
+            android:inputType="textEmailAddress"
+            android:paddingLeft="10dp"
+            android:textColor="@color/colorwhite" />
+
+        <EditText
+            android:id="@+id/edt_password"
+            android:layout_width="286dp"
+            android:layout_height="54dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/round_border"
+            android:drawableLeft="@drawable/ic_lock"
+            android:ems="10"
+            android:hint="Enter your password"
+            android:inputType="textPassword"
+            android:paddingLeft="10dp"
+            android:textColor="@color/colorwhite" />
+
+        <CheckBox
+            android:id="@+id/cb_politique"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/round_border"
+            android:text="Accepter les politique de confidentialités"
+            android:textColor="@color/colorwhite" />
+
+        <Button
+            android:id="@+id/btn_sign_in"
+            android:layout_width="184dp"
+            android:layout_height="36dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/gradiant"
+            android:enabled="false"
+            android:gravity="center|center_horizontal|center_vertical"
+            android:text="Sign in"
+            android:textColor="@color/colorwhite"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_sign_up"
+            android:layout_width="184dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/gradiant"
+            android:gravity="center|center_horizontal|center_vertical"
+            android:text="Sign up"
+            android:textColor="@color/colorwhite"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_sign_face"
+            android:layout_width="286dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/gradiant"
+            android:drawableLeft="@drawable/image4"
+            android:gravity="center|center_horizontal|center_vertical"
+            android:text="Sign with facebook"
+            android:textColor="@color/colorwhite"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
