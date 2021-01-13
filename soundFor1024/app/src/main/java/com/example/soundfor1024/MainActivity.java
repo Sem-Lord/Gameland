@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         }
         else{
             musicPlayer.start();
-            button.setImageResource(R.drawable.icon_music);
+            button.setImageResource(R.drawable.icon_nosound);
         }
 
         }
