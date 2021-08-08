@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="@color/colorMain"
+    tools:context=".ProfileActivity">
+
+    <!-- USER DATA CONTAINER -->
+
+
+    <!-- FIREBASE IMAGE -->
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="98dp"
+        android:background="@drawable/image11"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- PROGRESS BAR -->
+
+    <!-- PROFILE IMAGE -->
+    <ProgressBar
+        android:id="@+id/profile_activity_progress_bar"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="304dp"
+        android:layout_marginLeft="304dp"
+        android:layout_marginTop="128dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginRight="57dp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/profile_activity_imageview_profile"
+        android:layout_width="51dp"
+        android:layout_height="102dp"
+        android:layout_marginTop="98dp"
+        android:background="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <!-- PROFILE USERNAME -->
+
+
+    <!-- PROFILE EMAIL CONTAINER -->
+
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="214dp"
+        android:text="@string/text_view_email"
+        android:textColor="@color/colorwhite"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- PROFILE EMAIL -->
+    <TextView
+        android:id="@+id/profile_activity_text_view_email"
+        android:layout_width="313dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="214dp"
+        android:text=""
+        android:textColor="@color/colorwhite"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="249dp"
+        android:text="@string/text_input_username"
+        android:textColor="@color/colorwhite"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- PROFILE EMAIL -->
+    <TextView
+        android:id="@+id/profile_activity_text_view_username"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="249dp"
+        android:text=""
+        android:textColor="@color/colorwhite"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <!-- BUTTONS CONTAINER -->
+
+
+    <!-- BUTTON UPDATE USERNAME -->
+
+    <!-- BUTTON SIGN OUT -->
+    <Button
+        android:id="@+id/profile_activity_button_sign_out"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="411dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="67dp"
+        android:background="@drawable/gradiant"
+        android:text="@string/button_sign_out_account"
+        android:textColor="#fff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <!-- BUTTON DELETE ACCOUNT -->
+    <Button
+        android:id="@+id/profile_activity_button_delete"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="411dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="9dp"
+        android:background="@drawable/gradiant"
+        android:text="@string/button_delete_account"
+        android:textColor="#fff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

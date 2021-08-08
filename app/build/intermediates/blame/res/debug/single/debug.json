@@ -1,0 +1,526 @@
+[
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn5.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\btn5.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image11.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image11.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_gameland.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_gameland.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_image11.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-hdpi\\image11.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\raw_victoire.mp3.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\raw\\victoire.mp3"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_form.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\form.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_neurone.jpg.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\neurone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_demarrage.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_demarrage.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image6.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image6.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_gameland_round.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-mdpi\\ic_gameland_round.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_im.jpg.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\im.jpg"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image22.jpg.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image22.jpg"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_categorie.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_categorie.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image14.jpg.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_gameland_round.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_gameland_round.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image19.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image19.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_howto_play.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_howto_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradiant.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\gradiant.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image12.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image12.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image7.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image7.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text2.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\text2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\video.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile2.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_profile2.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play_screen.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_play_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_gameland_foreground.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_gameland_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_gameland_foreground.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_gameland_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image16.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image16.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_top_quiz.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\fragment_top_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play_screen2.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_play_screen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image13.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image13.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bi.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\bi.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_musique.jpg.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\musique.jpg"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main__top_quiz.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_main__top_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_acceuil.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_acceuil.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bf.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\bf.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_gameland.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_gameland.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn4.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\btn4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image2.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image2.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_screen2.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_main_screen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_gameland.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-mdpi\\ic_gameland.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image18.jpg.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\bt.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_mail.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo1.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\logo1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\raw_click.wav.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\raw\\click.wav"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image15.jpg.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image5.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image5.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_gameland_round.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_gameland_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_gameland_round.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xhdpi\\ic_gameland_round.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_gameland.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-hdpi\\ic_gameland.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image3.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image3.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_gameland_round.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-hdpi\\ic_gameland_round.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_gameland.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xhdpi\\ic_gameland.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_gameland_round.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_gameland_round.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn1.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\btn1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_gameland_foreground.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-hdpi\\ic_gameland_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_mail.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_activity2__top_quiz.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_main_activity2__top_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ranking.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_ranking.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image4.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image4.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_gameland.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_gameland.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image20.jpg.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image20.jpg"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_list.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_1024.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\fragment_1024.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_gameland_foreground.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-mdpi\\ic_gameland_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\raw_echec.wav.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\raw\\echec.wav"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image10.jpg.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn2.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\btn2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image9.jpg.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_gameland_foreground.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xhdpi\\ic_gameland_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image17.jpg.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image17.jpg"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn3.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\btn3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lock.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image8.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image8.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_commencer.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\commencer.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lock.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image1.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image1.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ranking.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\ranking.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image21.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\image21.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cercle.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\cercle.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\raw_buzz.mp3.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\raw\\buzz.mp3"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\raw_baguette.wav.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\raw\\baguette.wav"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_score.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\score.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_border.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\round_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_classement.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\classement.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_screen.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_main_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting.PNG.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\drawable\\setting.PNG"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_connexion.xml.flat",
+        "source": "C:\\Users\\semfa\\AndroidStudioProjects\\1024\\app\\src\\main\\res\\layout\\activity_connexion.xml"
+    }
+]
